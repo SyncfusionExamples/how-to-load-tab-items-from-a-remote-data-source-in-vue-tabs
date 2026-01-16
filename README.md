@@ -10,4 +10,11 @@ https://ej2.syncfusion.com/vue/demos/#/material3/tab/default.html
 Make sure that you have the latest versions of NodeJS and Visual Studio Code in your machine before starting to work on this project.
 
 ### How to run this application?
-To run this application, you need to clone the `how-to-load-tab-items-from-a-remote-data-source-in-vue-tabs` repository and then open it in Visual Studio Code. Now, simply install all the necessary vue packages into your current project using the `npm install` command and run your project using the `npm run dev` command.
+
+To run this application follow the below steps:
+
+1) Clone the `how-to-load-tab-items-from-a-remote-data-source-in-vue-tabs` repository to your local machine.
+2) Open the folder in Visual Studio Code.
+3) Now, simply install all the necessary vue packages into your current project using the `npm install` command.
+4) Start the dev server with the `npm run dev` command.
+5) Open the local URL shown in the terminal.
