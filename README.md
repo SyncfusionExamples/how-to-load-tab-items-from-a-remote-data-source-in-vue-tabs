@@ -1,4 +1,4 @@
-## How to Load Tab Items from a Remote Data Source in Vue Tabs
+# How to Load Tab Items from a Remote Data Source in Vue Tabs
 
 **Repository Description**  
 This repository contains a quick‑start Vue sample that demonstrates how to load tab items dynamically in the Syncfusion Vue Tabs component using JSON and remote data sources.
